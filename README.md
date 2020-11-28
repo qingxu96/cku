@@ -21,4 +21,4 @@ v0.1.cpp为一个空项目
 v0.2.cpp为完成基础功能的一份源代码其中具有（字符数，单词数，句子数）
 v0.3.cpp为完成扩展功能源代码添加了（字符数，单词数，句子数，行数）
 
-![1](C:\Users\lenovo\Desktop\1.jpg)
+![1](https://github.com/qingxu96/cku/blob/main/1.jpg)
